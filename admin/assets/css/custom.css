@@ -1,0 +1,11 @@
+.sp-40{
+	margin-top:40px;
+}
+.red{
+	color:red;
+}
+
+#post_description_input_box {
+    float: left;
+    width: 100%;
+}
