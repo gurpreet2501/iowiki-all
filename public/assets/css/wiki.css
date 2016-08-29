@@ -1,3 +1,6 @@
+body{
+    background: #EFEFEF
+}
 .img-fit-container{
 	width: 100%;
 }
@@ -41,6 +44,7 @@ i.fa.fa-facebook-official {
     border:none;
     padding-top: 1px;
     padding-bottom: 1px;
+    background: #EFEFEF;
 }
 .category-btns:hover {
     background: #C70702;
@@ -59,4 +63,28 @@ i.fa.fa-facebook-official {
 .category-btns:hover {
     background: #C70702;
     color: #fff;
+}
+.news-content-block {
+    min-height: 400px;
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 0 5px 5px #dfdfdf;
+    margin-bottom: 39px;
+}
+.news-content-block .post-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 6px;
+    
+ 
+}
+.news-content-block .category-title {
+    font-size: 16px;
+    border-bottom: 1px solid lightgray;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.right-block-row-separator {
+    margin-bottom: 13px;
 }

@@ -21,7 +21,7 @@
 					<div class="search">
 						<form class="navbar-form navbar-left" id="search">
 			        <div class="form-group">
-			          <input type="text" class="form-control" placeholder="Search here">
+			          <input type="text" class="form-control" name="search_box" placeholder="Search here">
 			        </div>
 		      	</form>
 					</div> <!-- search -->
@@ -39,7 +39,7 @@
 		</div> <!-- row -->
 		<div class="row">
 				<div class="col-md-12">
-						<div class="categories text-center">
+						<span class="glyphicon glyphicon-star"></span><div class="categories text-center">
 							<a class="btn btn-default category-btns" href="#" role="button">PHP</a>
 							<a class="btn btn-default category-btns" href="#" role="button">Java</a>
 							<a class="btn btn-default category-btns" href="#" role="button">Android</a>
@@ -73,6 +73,7 @@
 							<a class="btn btn-default category-btns" href="#" role="button">Android</a>
 							<a class="btn btn-default category-btns" href="#" role="button">ios</a>
 						</div>			
-				</div>
-		</div>
-</div>
+				</div> <!-- col-md-12 -->
+		</div>  <!-- row -->
+</div> <!-- container -->
+<div class="container">  
