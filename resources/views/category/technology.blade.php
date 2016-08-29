@@ -1,4 +1,4 @@
-	 	<div class="news-content-block">
+	 	<div class="grey-shadow-content-section">
 			 		<div class="category-title"><?=$test?></div>
 			 			<!-- Internal Division -->
 			 			<div class="row">
@@ -7,7 +7,7 @@
 			 								<img src="http://images.indianexpress.com/2016/08/shahid-820.jpg?w=820?w=728" class="img-fit-container" />
 			 						</div>
 			 						<div class="section-content">
-			 							<div class="post-title">Shahid Kapoor new baby arrived</div>
+			 							<div class="post-title">Will Smith parties with Akshay Kumar, Twinkle Khanna in Mumbai, see pics</div>
 			 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
